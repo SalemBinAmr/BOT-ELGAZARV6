@@ -15,10 +15,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.owner = ['967739359648'] //ur owner number
+global.ownername = "𝚂𝙱-𝙱𝙾𝚃❤️" //ur owner name
+global.ytname = "YT: 𝚂𝙱𝙼ods" //ur yt chanel name
+global.socialm = "GitHub: SBMODS" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
